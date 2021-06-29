@@ -188,19 +188,13 @@ reader.readAsDataURL(input.files[0]);
                                         <div class="inputBox mb-2">
 				 <label for="country " class="mb-0">Country</label>
                 <select class="inputBox mb-2" id="cuntry" name="country">
-                   <option value="select country">Select Country</option>
-                   <option value="select country">India</option>
-                    <option value="select country">USA</option>
-                     <option value="select country">UA</option>
-                  
+                   <option value="Maharashtra">Maharashtra</option>
                 </select>
             </div>
                                         <div class="inputBox mb-2">
 				 <label for="city " class="mb-0">City</label>
                 <select class="inputBox mb-2" id="city" name="city">
-                   <option value="City">City</option>
-                   <option value="City">Tirupati</option>
-                   <option value="City">Bangalore</option>
+                   <option value="Maharashtra">Maharashtra</option>
                 </select>
             </div>
                                     </div>
@@ -208,11 +202,7 @@ reader.readAsDataURL(input.files[0]);
                                         <div class="inputBox mb-2">
 				 <label for="state " class="mb-0">State</label>
                 <select class="inputBox mb-2" id="state" name="state">
-                   <option value="State">State</option>
-                   <option value="State">AP</option>
-                   <option value="State">KA</option>
-                   <option value="State">TN</option>
-                   
+                   <option value="Maharashtra">Maharashtra</option>
                 </select>
             </div>
                                         <div class="inputBox mb-2">
